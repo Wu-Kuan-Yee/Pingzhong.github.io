@@ -42,7 +42,9 @@ var config = {
 
     /*在这里配置关于我的信息，你可以内嵌HTML标签以调整格式*/
     about: "<p>你好！我是平中，性别男，在合肥某技校读书。</p>" +
+        "<p></p>" +
         "<p>学物理的。</p>" +
+        "<p></p>" +
         "<p>爱好睡觉。</p>",
 
 
@@ -84,9 +86,9 @@ var config = {
      * 通过查看实际效果以调整字题长度
      */
     portfolio: [
-        ["./images/bokezhuye.png", "https://wu-kuan-yee.github.io/homepage/", "个人博客", "这里记录了我的数学物理计算机学习笔记<br>持续更新"],
-        ["./images/githubzhuye.png", "https://github.com/Wu-Kuan-Yee", "github主页", "欢迎访问<br>2021/7/23"],
-        ["./images/ustcgitzhuye.png", "https://git.lug.ustc.edu.cn/WPZ", "学校git主页", "欢迎访问"]
+        ["./images/githubzhuye.png", "https://github.com/Wu-Kuan-Yee", "github主页", "欢迎访问"],
+        ["./images/ustcgitzhuye.png", "https://git.lug.ustc.edu.cn/WPZ", "学校git主页", "欢迎访问"],
+        ["./images/bokezhuye.png", "https://wu-kuan-yee.github.io/homepage/", "个人博客", "这里记录了我的数学物理计算机学习笔记<br>持续更新"]
     ],
 
 
@@ -119,7 +121,7 @@ var config = {
      * 建议填写您的校级及以上得奖经历或或其他证书
      */
     others: [
-        ["2019-05-28", "创造连续睡眠时长11小时之个人纪录。","微睡。"],
+        ["2019-05-28", "创造连续睡眠时长11小时之个人纪录。","浅睡。"],
         ["2020-01-24", "创造连续睡眠时长13小时之个人纪录。","小睡。"],
         ["2022-11-15", "创造连续睡眠时长18小时之个人纪录。","中睡。"],
         ["2023-7-12", "创造连续睡眠时长26小时之个人纪录。","大睡。"]
