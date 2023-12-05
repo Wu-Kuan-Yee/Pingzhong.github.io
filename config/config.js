@@ -8,7 +8,7 @@ var config = {
     address: "现居安徽省合肥市",
     /*qq: "**********",*/
     log: "Sleepy guy",
-    excpect_work: "学物理的",
+    /*excpect_work: "学物理的",*/
 
 
     /*在这里配置首页的座右铭集合*/
