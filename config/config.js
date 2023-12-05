@@ -7,7 +7,7 @@ var config = {
     email: "wu_gy@ustc.edu.cn",
     address: "现居安徽省合肥市",
     /*qq: "**********",*/
-    /*log: "Happysleeper",*/
+    log: "Sleeper",
     excpect_work: "学物理的",
 
 
