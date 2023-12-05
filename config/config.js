@@ -86,7 +86,7 @@ var config = {
     portfolio: [
         ["./images/bokezhuye.png", "https://wu-kuan-yee.github.io/homepage/", "个人博客", "这里记录了我的数学物理计算机学习笔记<br>持续更新"],
         ["./images/githubzhuye.png", "https://github.com/Wu-Kuan-Yee", "github主页", "欢迎访问<br>2021/7/23"],
-        ["https://pic3.zhimg.com/80/v2-d9766956d5c85c2780e4c5008fd946ca_1440w.jpg", "https://github.com/happysnaker/StudentsManageSystem", "学生管理系统", "C语言+AVL树+多重双向表实现"]
+        ["./images/ustcgitzhuye.png", "https://git.lug.ustc.edu.cn/WPZ", "学校git主页", "欢迎访问"]
     ],
 
 
