@@ -3,10 +3,10 @@ var config = {
     name: "平中",
     sex: "男",
     age: "24",
-    /*phone: "***********",*/
+    /*phone: "PPPPPP",*/
     email: "wu_gy@ustc.edu.cn",
     address: "现居安徽省合肥市",
-    /*qq: "**********",*/
+    /*qq: "QQQQQQQ",*/
     log: "Sleepy guy",
     /*excpect_work: "学物理的",*/
 
