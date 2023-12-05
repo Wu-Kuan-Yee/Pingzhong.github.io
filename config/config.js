@@ -144,7 +144,7 @@ var config = {
     url: [
         //背景图、头像、作品展示背景、其他经历背景
         "./images/intro-bg.jpg",
-        "./images/2.jpg",
+        "./images/Einstein.jpg",
         "./images/work-bk.png",
         "./images/4.jpg"
     ]
