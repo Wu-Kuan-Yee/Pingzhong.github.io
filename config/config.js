@@ -1,12 +1,12 @@
 var config = {
     /*在这里配置你的基本信息，所有数据以字符串形式给出*/
-    name: "卢世荣",
+    name: "pz",
     sex: "男",
-    age: "19",
-    phone: "19870887127",
-    email: "happysnaker@foxmail.com",
-    address: "现居浙江省义乌市",
-    qq: "1637318597",
+    age: "24",
+    phone: "***********",
+    email: "***********",
+    address: "现居安徽省合肥市",
+    qq: "**********",
     log: "Happysnaker",
     excpect_work: "Java/Go后端开发",
 
